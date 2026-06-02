@@ -1,4 +1,4 @@
 resource "local_file" "hello" {
-    filename = "\temp\1.txt"
-    content = Hello
+    filename = "c:/temp/example.txt"
+    content = "Hello"
 }
